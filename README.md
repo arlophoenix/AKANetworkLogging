@@ -9,7 +9,7 @@
 
 - To witness the full power of the logging check out `AKANetworkLogger.h`. This class is the pie, the rest is gravy.
 - To easily integrate the logging with a network request framework that emits sensible notifications subclass `AKANetworkNotificationLogger`.
-- To run the example project; clone the repo, and run `pod install` from the Example directory first. Except for that won't help because I am still learning how to make the example work with Cocoapods.
+- To run the example project; clone the repo, and run `pod install` from the Example directory first. Except for that won't help because I am still learning how to make the example work with CocoaPods.
 - To run the tests umm... Tests are coming soon also.
 
 ## Installation
